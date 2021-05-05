@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    ol {
+      color: red;
+      background-color: black;
+      font-size: large;
+      text-shadow: 3px 3px
+     }
+    ul {
+      color: orange;
+      background-color: green;
+      font-size: large;
+    }
+  </style>
+  <body>
+    <p>45&gt;33</p>
+    <ol>
+      <li>Kids</li>
+      <li>Puppies</li>
+      <li>Kittens</li>
+      <li>Fish</li>
+    </ol>
+    <ul>
+      <li>Popcorn</li>
+      <li>Pancakes</li>
+      <li>Waffles</li>
+      <li>Candy</li>
+    </ul>
+   </body>
+</html>
